@@ -20,9 +20,9 @@ global.wm = "꧁𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙꧂X⌣X 🐥"
 global.botscript = 'https://github.com/DEMONST3R-CODER/OREKI-MD' //script link
 global.packname = "Oreki MD"
 global.author = "꧁𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙꧂X⌣X 🐥"
-global.creator = "2349153596300@s.whatsapp.net"
+global.creator = "2347040694847@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2349153596300"] // Premium User
+global.premium = ["2347040694847"] // Premium User
 global.hituet = 0
 
 //bot set
